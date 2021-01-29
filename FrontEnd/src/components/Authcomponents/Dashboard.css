@@ -1,0 +1,7 @@
+.pText {
+  color: white;
+}
+.pTextLink:hover {
+  color: red;
+  text-decoration: none;
+}

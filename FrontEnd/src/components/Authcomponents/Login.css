@@ -1,0 +1,46 @@
+
+.forgotPassword{
+  color: black;
+}
+
+.forgotPassword:hover{
+  color:darkblue;
+  text-decoration: none;
+}
+.pTextLink{
+  color:white;
+}
+.pTextLink:hover{
+  color:lightblue;
+  text-decoration: none;
+}
+
+#cardWidth{  
+  width: 400px;
+  vertical-align: middle;
+  margin:auto;
+}
+
+.loginPage{
+  padding: 5%;
+  position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  background-image: url("../images/starryNight.jpeg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  
+  
+}
+
+#needAnAccount{
+  color:white;
+}
+
+
+

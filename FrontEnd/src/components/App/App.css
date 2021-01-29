@@ -1,0 +1,17 @@
+body {
+  margin-bottom: 80px;
+}
+
+.page-intro {
+  padding: 0;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.icons:hover {
+  width: 150%;
+  color: blue;
+}
